@@ -33,24 +33,24 @@ const About = () => {
                 <div className="p-6  ">
                   <div className="flex justify-center ">
                     <img src={name} className="h-4 w-4 mt-1 " alt="name"></img>
-                    <h1 className="ml-2">Rohit Patil</h1>
+                    <h1 className="ml-2">Kunal Shaw</h1>
                   </div>
                   <div className="flex justify-center mt-2">
                     <img src={email} className="h-4 w-4 mt-1" alt="email"></img>
-                    <h4 className="ml-2">rohitvpatil0810@gmail.com</h4>
+                    <h4 className="ml-2">shawkunal498@gmail.com</h4>
                   </div>
                   <div className="flex justify-center gap-10 mt-6 ">
-                    <a href="https://www.instagram.com/rohitvpatil0810/">
+                    <a href="https://www.instagram.com/kunal_shaw_/">
                       <img
                         src={admin_insta}
                         className="h-5 w-5"
                         alt="insta"
                       ></img>
                     </a>
-                    <a href="https://github.com/rohitvpatil0810">
+                    <a href="https://github.com/KunalShaw498">
                       <img src={admin_git} className="h-5 w-5" alt="git"></img>
                     </a>
-                    <a href="https://www.linkedin.com/in/rohit-patil-35b08b209/">
+                    <a href="https://www.linkedin.com/in/kunal-shaw-963aa01b6/">
                       <img
                         src={admin_linkedin}
                         className="h-5 w-5 "
